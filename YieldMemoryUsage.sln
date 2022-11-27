@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YieldMemoryUsage", "YieldMemoryUsage/YieldMemoryUsage.csproj", "{D853322E-9EBE-424C-8C20-E31CDC23D1A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D853322E-9EBE-424C-8C20-E31CDC23D1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D853322E-9EBE-424C-8C20-E31CDC23D1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D853322E-9EBE-424C-8C20-E31CDC23D1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D853322E-9EBE-424C-8C20-E31CDC23D1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {956E0338-387F-4F17-A9AD-1D4403C6843B}
+	EndGlobalSection
+EndGlobal
