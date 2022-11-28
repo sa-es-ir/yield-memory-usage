@@ -2,7 +2,7 @@
 
 ![yield-benchmark](yield-benchmark.png)
 
-# Code
+# Benchmark Code
 ```csharp
 
 [MemoryDiagnoser(false)]
