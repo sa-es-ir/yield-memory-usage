@@ -1,4 +1,4 @@
-# Benchmark yield memory usage 
+# Benchmark for yield memory usage 
 
 ![yield-benchmark](yield-benchmark.png)
 
