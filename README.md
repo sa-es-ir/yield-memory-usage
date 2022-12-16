@@ -1,5 +1,5 @@
 # Benchmark for yield memory usage 
-Using ``yield`` you can work one item 
+Using ``yield`` you can work one item at the same instead of get whole list first.
 
 ![yield-benchmark](yield-benchmark.png)
 
