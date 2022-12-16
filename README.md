@@ -2,7 +2,7 @@
 
 ![yield-benchmark](yield-benchmark.png)
 
-# code for comparing using and not using ``yield``
+# Checking using and not using ``yield``
 ```csharp
 
 [MemoryDiagnoser(false)]
